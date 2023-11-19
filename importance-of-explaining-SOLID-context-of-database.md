@@ -1,5 +1,3 @@
-**Importance of explaining SOLID principle in the context of Database.**  
-  
 Explaining SOLID principles in the context of database relations is crucial for several reasons, offering clarity and simplicity that can be more universally understood than examples in object-oriented programming (OOP). Here's a short description of why it's important and more accessible:
 
 **1. Tangible Real-World Analogies:** Applying SOLID principles to database relations often involves real-world analogies that people encounter in their daily lives, such as organizing information in a way that mirrors how businesses or systems operate. This relatability makes the concepts more tangible and easier to grasp.
