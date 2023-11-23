@@ -1,17 +1,42 @@
-Navigating the Digital Landscape in London:
+As a seasoned senior lead developer at a prominent digital agency nestled in the bustling heart of London, I am not just a strategic leader but also deeply hands-on in the intricate world of software development. My multifaceted approach extends well beyond the mere lines of code, encompassing the full spectrum of software development. From crafting elegant code to designing robust software architecture and developing database structures, I am actively involved in every stage of the process.
 
-As a senior lead developer at a prominent digital agency located in the bustling heart of London, I am thoroughly immersed in the dynamic realm of software development. My hands-on approach transcends the boundaries of mere coding, delving into the intricate domains of software architecture, team management, mentoring, and strategic leadership. Architecting Success in Software Development:
+Leading and mentoring the team is not just a responsibility but a passion. I thrive on fostering an environment where each team member can grow and excel. My strategic leadership goes hand in hand with my ability to guide, mentor, and inspire the team towards achieving collective goals. This dual role, as both a hands-on coder and a strategic leader, reflects my commitment to driving excellence in every aspect of software development.
 
-In today's landscape, where remote work has become the norm, my ability to collaborate seamlessly with external teams of developers and engineers has become paramount. I recognize the importance of fostering a cohesive virtual environment, ensuring that despite physical distances, the collective efforts align seamlessly toward project goals. This collaborative spirit has proven instrumental in navigating the challenges of the digital era.
+At the core of my role is the commitment to delivering innovative solutions. Whether it's diving into the intricacies of code, shaping software architecture, or providing guidance on database design, my goal is to ensure that every project not only meets but exceeds expectations. This comprehensive and hands-on approach defines my contribution to the vibrant landscape of software development in London.
 
-Wearing Multiple Hats for Project Excellence:
+**Skills**
 
-Beyond the technical intricacies, I take pride in my proficiency in translating the client's narrative of requirements into tangible, successful products. Listening to their story allows me to not only understand their immediate needs but also anticipate future requirements. This client-centric approach is the cornerstone of my work, and I am committed to delivering solutions that not only meet but exceed their expectations.
+| Strong problem-solving skills. Team building, management, and leadership. Capable of effectively communicate with clients. Experienced in successfully delivering complete software system (strong understanding SLDC).  | Strong knowledge of architecture design, solution design and database design Understanding of OOP, Design patterns & principle Experienced in micro services and API programming.  |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-Seamless Collaboration with External Teams in the Virtual Space:
+Platform/Frameworks
 
-Wearing multiple hats has become second nature to me. Whether it is navigating the complexities of software development, crafting robust solution architectures, or collaborating with external teams, I bring a wealth of experience to the table. My commitment to delivering innovative solutions and fostering team excellence extends into every facet of my role.
+Laravel, CodeIgniter, Django, WordPress, Drupal, Magento, Joomla, JavaScript Frameworks
 
-Crafting Success Stories from Client Requirements:
+Programming Language
 
-In a rapidly evolving digital landscape, I thrive on the challenge of staying ahead of the curve. My leadership philosophy revolves around actively contributing to the growth and success of the digital agency. By pushing technological boundaries and ensuring seamless collaboration between internal and external teams, I am dedicated to driving excellence in software development and project management.
+PHP, Python, JavaScript, C/C++
+
+Technologies and tools
+
+HTML/HTML5, CSS, JavaScript [Ajax, jQuery], Bootstrap, XML/JSON, Microservices/APIs, GraphQL, Apache, git, Composer, AWS, Docker, WebRTC, Lambda programming, Web Server Administration/DevOps, MongoDB
+
+DB/RDBMS
+
+SQL/MySQL, NoSQL
+
+**Masterminding Success in Remote Software Development:**
+
+In the dynamic realm of remote work, I excel at bridging the gaps between geographically dispersed teams, fostering a cohesive virtual environment that harmonizes individual efforts towards achieving common project goals. This collaborative spirit proves invaluable in navigating the challenges of the digital era, ensuring that projects remain on track and objectives are met.
+
+**Orchestrating Project Excellence: A Multifaceted Approach:**
+
+My expertise extends beyond the technical complexities of software development to encompass a comprehensive understanding of client needs and aspirations. I seamlessly translate client narratives into successful products, anticipating future requirements and crafting solutions that surpass expectations. This client-centric approach is the cornerstone of my work, ensuring that every project I undertake delivers exceptional value.
+
+**Fostering Seamless Collaboration in the Virtual Realm:**
+
+I am a true jack-of-all-trades, adeptly navigating the intricacies of software development, crafting robust architectures, and collaborating seamlessly with external teams. My commitment to delivering innovative solutions and fostering team excellence extends to every facet of my role. I believe in nurturing a culture of collaboration, empowering team members to contribute their unique talents and perspectives, leading to exceptional outcomes.
+
+**Transforming Client Requirements into Success Stories:**
+
+In the ever-evolving digital landscape, I thrive on staying ahead of the curve, constantly seeking new challenges and opportunities to push technological boundaries. My leadership philosophy revolves around fostering seamless collaboration between internal and external teams, dedicated to driving excellence in software development and project management. I am not just a developer; I am a visionary leader, shaping the future of software development and ensuring the continued success of every project I undertake.
