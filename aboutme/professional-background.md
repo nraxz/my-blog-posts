@@ -2,7 +2,7 @@ As a seasoned senior lead developer at a prominent digital agency nestled in the
 
 Leading and mentoring the team is not just a responsibility but a passion. I thrive on fostering an environment where each team member can grow and excel. My strategic leadership goes hand in hand with my ability to guide, mentor, and inspire the team towards achieving collective goals. This dual role, as both a hands-on coder and a strategic leader, reflects my commitment to driving excellence in every aspect of software development.
 
-At the core of my role is the commitment to delivering innovative solutions. Whether it's diving into the intricacies of code, shaping software architecture, or providing guidance on database design, my goal is to ensure that every project not only meets but exceeds expectations. This comprehensive and hands-on approach defines my contribution to the vibrant landscape of software development in London.
+At the core of my role is the commitment to delivering innovative solutions. Whether it is diving into the intricacies of code, shaping software architecture, or providing guidance on database design, my goal is to ensure that every project not only meets but exceeds expectations. This comprehensive and hands-on approach defines my contribution to the vibrant landscape of software development in London.
 
 **Skills**
 
@@ -14,21 +14,23 @@ At the core of my role is the commitment to delivering innovative solutions. Whe
 -   Understanding of OOP, Design patterns & principle
 -   Experienced in micro services and API programming.
 
-Platform/Frameworks
+**Platform/Frameworks**
 
 Laravel, CodeIgniter, Django, WordPress, Drupal, Magento, Joomla, JavaScript Frameworks
 
-Programming Language
+**Programming Language**
 
 PHP, Python, JavaScript, C/C++
 
-Technologies and tools
+**Technologies and tools**
 
 HTML/HTML5, CSS, JavaScript [Ajax, jQuery], Bootstrap, XML/JSON, Microservices/APIs, GraphQL, Apache, git, Composer, AWS, Docker, WebRTC, Lambda programming, Web Server Administration/DevOps, MongoDB
 
-DB/RDBMS
+**DB/RDBMS**
 
 SQL/MySQL, NoSQL
+
+### **Expertise and Agility:**
 
 **Masterminding Success in Remote Software Development:**
 
