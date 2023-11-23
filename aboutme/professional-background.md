@@ -6,8 +6,13 @@ At the core of my role is the commitment to delivering innovative solutions. Whe
 
 **Skills**
 
-| Strong problem-solving skills. Team building, management, and leadership. Capable of effectively communicate with clients. Experienced in successfully delivering complete software system (strong understanding SLDC).  | Strong knowledge of architecture design, solution design and database design Understanding of OOP, Design patterns & principle Experienced in micro services and API programming.  |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+-   Strong problem-solving skills.
+-   Team building, management, and leadership.
+-   Capable of effectively communicate with clients.
+-   Experienced in successfully delivering complete software system (strong understanding SLDC).
+-   Strong knowledge of architecture design, solution design and database design
+-   Understanding of OOP, Design patterns & principle
+-   Experienced in micro services and API programming.
 
 Platform/Frameworks
 
