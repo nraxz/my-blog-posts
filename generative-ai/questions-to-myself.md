@@ -2,7 +2,7 @@ As I continue my journey to learn more about generative AI, I find it critical t
 
 1.  **What are my motivations for learning generative AI?**
 
-    My motivation for understanding generative AI derives from a strategic standpoint as an experienced software engineer with 15 years of experience leading a development team. I want to stay on the cutting edge of technical breakthroughs, investigating how generative AI may revolutionise our development processes, boost creativity in our projects, and potentially open new paths for innovation. Furthermore, understanding generative AI coincides with my dedication to constant learning and ensures our team's competitiveness in a quickly changing tech landscape.
+    My motivation for understanding generative AI derives from a strategic standpoint as an experienced software engineer with 15 years of experience in software development. I want to stay on the cutting edge of technical breakthroughs, investigating how generative AI may revolutionise our development processes, boost creativity in our projects, and potentially open new paths for innovation. Furthermore, understanding generative AI coincides with my dedication to constant learning and ensures our team's competitiveness in a quickly changing tech landscape.
 
 2.  **How does generative AI align with my current career goals?**
 
