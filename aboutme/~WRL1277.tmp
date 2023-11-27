@@ -1,3 +1,0 @@
-```<li class="nav-item dropdown">                        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"                            aria-haspopup="true" aria-expanded="false">Resources</a>                        <div class="dropdown-menu">                            <a class="dropdown-item" href="/resources/linkedin-skills-quiz/">Linkedin Skill Quizes</a>                            <a class="dropdown-item" href="/quotes/genre">Quotes</a>                            <a class="dropdown-item" href="/jokes">Jokes</a>                            <div class="dropdown-divider"></div>                            <a class="dropdown-item" href="#">Open Source Projects</a>                        </div>                    </li>
-
-```
