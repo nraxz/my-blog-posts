@@ -4,6 +4,8 @@ Ignoring these rules can result in rigid and brittle programming, with modest so
 
 Although it may take some practise, coding in accordance with these principles considerably improves code quality and allows for a more in-depth understanding of well-designed software. Understanding how to use interfaces effectively is critical. Let's dissect each principle one at a time.
 
+###### [Github](https://github.com/nraxz/solid-principle) Repositories
+
 
 ## Single Responsibility Principle :
 
@@ -329,7 +331,4 @@ class House {
 
 In this good example, the `Switchable` interface is introduced, and both the `House` class and the `LightSwitch` class depend on this abstraction. This adheres to the Dependency Inversion Principle, as the high-level module (`House`) now depends on an abstraction (`Switchable`) rather than a concrete implementation. It allows for flexibility and easy substitution of different implementations of the `Switchable` interface without modifying the `House` class.
 
-
-### License
-
-Open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+Please also see a post that [explains SOLID principle in the context of Database](https://nareshshahi.com/articles/importance-of-explaining-solid-principle-in-the-context-of-database), I hope this will help beginners to understand SOLID principle.
